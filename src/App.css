@@ -1,0 +1,7 @@
+html {
+    scroll-behavior: smooth;
+  }
+  /* Add this to your global CSS file (e.g., index.css or App.css) */
+.no-scroll {
+    overflow: hidden;
+  }
